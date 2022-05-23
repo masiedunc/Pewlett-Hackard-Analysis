@@ -4,15 +4,22 @@ To prepare for the future of the company, Pewlett-Hackard (PH), requested an ana
 
 ## Results
 Major points of the analysis:
-- After finding the count of employees per position that are retiring, the findings, in Image 1, show that the Senior Engineers and Senior Staff positions have the highest number of retirements. Interestingly, there were only 2 managers retiring. 
+- For the initial analysis of retiring employees, duplicate entries were removed from data along with any previous employees who already left the company. You can see the beginning of this unique list of retiring employees below in Image 1. The total number of retiring employees is 72,461.
 
-**Image 1:** *Number of retiring employees per position.*
+**Image 1:** *Pewlett-Hackard employee list.*
+
+![unique titles](https://user-images.githubusercontent.com/102122063/169737960-ca0abfff-d01d-41e7-995e-17ffa2873187.PNG)
+
+
+- After finding the count of employees per position that are retiring, the findings, in Image 2, show that the Senior Engineers and Senior Staff positions have the highest number of retirements. Interestingly, there were only 2 managers retiring. 
+
+**Image 2:** *Number of retiring employees per position.*
 
 ![retiring_employees](https://user-images.githubusercontent.com/102122063/169731205-962d5fdb-c605-4d3a-985f-7953277cd6db.PNG)
 
-- If we look at the Mentorship program, the findings, in Image 2, show that there are currently 1549 employees who are eligible to be mentors. 
+- If we look at the Mentorship program, the findings, in Image 3, show that there are currently 1549 employees who are eligible to be mentors. 
 
-**Image 2:** *Employees eligibile for mentorship program.*
+**Image 3:** *Employees eligibile for mentorship program.*
 
 ![mentors](https://user-images.githubusercontent.com/102122063/169737045-bef76aa3-c916-4113-94e4-838d8d312d2d.PNG)
 

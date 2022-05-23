@@ -11,6 +11,11 @@ Major points of the analysis:
 ![retiring_employees](https://user-images.githubusercontent.com/102122063/169731205-962d5fdb-c605-4d3a-985f-7953277cd6db.PNG)
 
 - If we look at the Mentorship program, the findings, in Image 2, show that there are currently 1549 employees who are eligible to be mentors. 
+
+**Image 2:** *Employees eligibile for mentorship program.*
+
+![mentors](https://user-images.githubusercontent.com/102122063/169737045-bef76aa3-c916-4113-94e4-838d8d312d2d.PNG)
+
 -
 -
 ## Summary

@@ -23,7 +23,6 @@ Major points of the analysis:
 
 ![mentors](https://user-images.githubusercontent.com/102122063/169737045-bef76aa3-c916-4113-94e4-838d8d312d2d.PNG)
 
--
 
 ## Summary
 As Pewlett-Hackard prepares for what they call a “silver tsunami,” the analysis identified 72,461 employees that are retiring. It’s important to note that 50,842 of the retiring employees hold positions as Senior Engineers and the Senior Staff, and these positions may need to take priority when moving forward with the Mentorship program. 
